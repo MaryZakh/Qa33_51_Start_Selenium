@@ -17,6 +17,38 @@ public class HomeWork {
         wd.get("https://telranedu.web.app/login");
     }
 
+
+    @Test
+    public void classwork2(){
+        WebElement button = wd.findElement(By.cssSelector("[name='login']"));
+        String text = button.getText();
+        System.out.println(text);
+
+        WebElement form = wd.findElement(By.xpath("//form"));
+        String textForm = form.getText();
+        System.out.println("***********************");
+        System.out.println(textForm);
+
+
+        WebElement html = wd.findElement(By.tagName("html"));
+        String textAll = html.getText();
+        System.out.println("***********************");
+        System.out.println(textAll);
+
+        WebElement br = wd.findElement(By.tagName("br"));
+        System.out.println("***********************");
+        System.out.println("text br--->" + br.getText());
+
+
+    }
+
+
+
+
+
+
+
+
     @Test
     public void classwork(){
         //parent
