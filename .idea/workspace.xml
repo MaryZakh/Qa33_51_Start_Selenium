@@ -64,19 +64,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.HomeWork.classwork.executor": "Run",
-    "Gradle.HomeWork.classwork2.executor": "Run",
-    "Gradle.Index.cssLocators.executor": "Run",
-    "Gradle.Index.executor": "Run",
-    "Gradle.Index.tableTest.executor": "Run",
-    "Gradle.StartSelenium.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.HomeWork.classwork.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.HomeWork.classwork2.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Index.cssLocators.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Index.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Index.tableTest.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.StartSelenium.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Gradle.HomeWork.classwork2">
     <configuration name="HomeWork.classwork" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
